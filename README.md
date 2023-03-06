@@ -1,5 +1,6 @@
-# 0x00. Python - Hello, World
-This repo is for Alx Project on Phyton language.
+# alx-higher_level_programming
+
+This repo is for Alx alx-higher_level_programming Project.
 
 ## Technologies
 * Editor used: `vim`
